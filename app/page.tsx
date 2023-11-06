@@ -3,7 +3,6 @@ import styles from '@/app/ui/home.module.css';
 import { lusitana } from './ui/fonts';
 import Link from 'next/link';
 import Image from 'next/image';
-import {desktop} from './../public/hero-desktop.png'
 
 export default function Page() {
   return (
